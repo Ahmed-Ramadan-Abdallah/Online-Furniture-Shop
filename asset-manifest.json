@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Online-Furniture-Shop.git/static/css/main.f3c743b4.css",
-    "main.js": "/Online-Furniture-Shop.git/static/js/main.439408aa.js",
-    "static/media/hero-bcg.jpeg": "/Online-Furniture-Shop.git/static/media/hero-bcg.a876f19f6786a3aca992.jpeg",
-    "static/media/hero-bcg-2.jpeg": "/Online-Furniture-Shop.git/static/media/hero-bcg-2.789918645915c8acb36f.jpeg",
-    "index.html": "/Online-Furniture-Shop.git/index.html",
-    "main.f3c743b4.css.map": "/Online-Furniture-Shop.git/static/css/main.f3c743b4.css.map",
-    "main.439408aa.js.map": "/Online-Furniture-Shop.git/static/js/main.439408aa.js.map"
+    "main.css": "/Online-Furniture-Shop/static/css/main.f3c743b4.css",
+    "main.js": "/Online-Furniture-Shop/static/js/main.65bd84cd.js",
+    "static/media/hero-bcg.jpeg": "/Online-Furniture-Shop/static/media/hero-bcg.a876f19f6786a3aca992.jpeg",
+    "static/media/hero-bcg-2.jpeg": "/Online-Furniture-Shop/static/media/hero-bcg-2.789918645915c8acb36f.jpeg",
+    "index.html": "/Online-Furniture-Shop/index.html",
+    "main.f3c743b4.css.map": "/Online-Furniture-Shop/static/css/main.f3c743b4.css.map",
+    "main.65bd84cd.js.map": "/Online-Furniture-Shop/static/js/main.65bd84cd.js.map"
   },
   "entrypoints": [
     "static/css/main.f3c743b4.css",
-    "static/js/main.439408aa.js"
+    "static/js/main.65bd84cd.js"
   ]
 }
