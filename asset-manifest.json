@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Online-Furniture-Shop/static/css/main.cba49a2a.css",
+    "main.js": "/Online-Furniture-Shop/static/js/main.cfd83f89.js",
+    "index.html": "/Online-Furniture-Shop/index.html",
+    "main.cba49a2a.css.map": "/Online-Furniture-Shop/static/css/main.cba49a2a.css.map",
+    "main.cfd83f89.js.map": "/Online-Furniture-Shop/static/js/main.cfd83f89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba49a2a.css",
+    "static/js/main.cfd83f89.js"
+  ]
+}
