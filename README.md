@@ -5,9 +5,8 @@ It aims to make furniture shopping easy and enjoyable with a wide range of produ
 
 <ul>
   <h4>Technologies used:</h4>
-  <li>HTML</li>
-  <li>SaaS</li>
-  <li>Bootstrap</li>
   <li>React.js</li>
   <li>Redux</li>
+  <li>SaaS</li>
+  <li>Bootstrap</li> 
 </ul>
